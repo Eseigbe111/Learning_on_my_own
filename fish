@@ -1,0 +1,1 @@
+-rw-r--r-- 1 GUDNES 197121 1906 Feb 15 13:25 shell_redirection_I-O_and_filters/output.txt
